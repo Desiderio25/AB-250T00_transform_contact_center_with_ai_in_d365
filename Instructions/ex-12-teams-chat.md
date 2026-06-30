@@ -96,6 +96,9 @@ Connecting chats to conversation records ensures that any Teams conversations st
 
 1. On the conversation record, in the productivity pane on the right side of the workspace, select the **Teams chats** icon.
 
+   > [!NOTE]
+   > If the productivity pane (or the **Teams chats** icon) does not appear, it is usually because the configuration changes you made in Tasks 1–5 have not finished replicating across the service. Allow up to **15 minutes** for the backend to finish processing, then refresh the browser (or close and reopen **Copilot Service workspace**) and reopen the conversation record. The productivity pane appears for **open** conversation records, so make sure the record you open is not a closed conversation — if the pane is still missing, open or generate an active conversation and try again.
+
 1. Select **New connected chat**.
 
 1. Add a participant (you can add any available user).
